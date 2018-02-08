@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "국민도서관 책꽂이 : 키핑안내",
-    "currentPage": "page2.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -25,7 +25,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 27,
+    "uniqCompNum": 45,
     "versionPublish": "4.6.2",
     "favicon": "",
     "noImageResize": ""
@@ -36,7 +36,7 @@
         "main": true,
         "title": "키핑안내:국민도서관 책꽂이",
         "meta_descr": "공유경제 도서공유 플랫폼 국민도서관 책꽂이의 키핑과 집책서비스를 안내합니다. ",
-        "header_custom": "\t<meta property=\"og:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\t<meta property=\"og:image\" content=\"http://www.bookoob.co.kr/imgs/banner/001.jpg\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\t<meta property=\"og:url\" content=\"http://www.bookoob.co.kr/\"/>\n\n\t<meta name=\"twitter:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\n\t<meta name=\"twitter:image\" content=\"http://www.bookoob.co.kr/imgs/banner/001.jpg\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />\n",
+        "header_custom": "\t<meta property=\"og:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\t<meta property=\"og:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518049595/keeping_esdryw.jpg\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\t<meta property=\"og:url\" content=\"http://www.bookoob.co.kr/\"/>\n\n\t<meta name=\"twitter:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\n\t<meta name=\"twitter:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518049595/keeping_esdryw.jpg\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -114,7 +114,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -479,6 +479,46 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": 0.5
+          },
+          "title": "키핑하면 돈번다 / 크레딧",
+          "text": "공유를 전제로 저렴한 보관료에 키핑하는 것이지만 그것만으로는 섭섭하죠.<br>네! 키핑한 책이 대여되면 나중에 현금으로 정산받을 수 있는 크레딧이 쌓입니다.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html#header4-s\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-share-square-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 253);\"></span>자세한 내용 보기</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
               "color": "#ffffff"
             },
             ".mbr-iconfont": {},
@@ -675,6 +715,36 @@
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1558x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffe3ab",
+            "overlay": true,
+            "overlayColor": "#fffcf6",
+            "overlayOpacity": "0.9",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "공유해주세요!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "share1",
+          "_anchor": "share1-11",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -702,13 +772,41 @@
               "color": "#fffffd"
             }
           }
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-12"
         }
       ]
     },
     "faq.html": {
       "settings": {
         "title": "FAQ",
-        "order": 2,
+        "order": 3,
         "meta_descr": "국민도서관 책꽂이의 키핑과 집책서비스에 관련한 여러 궁금증을 풀어드리는 FAQ입니다."
       },
       "components": [
@@ -785,7 +883,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -815,7 +913,7 @@
             "collapseAll": false,
             "tabs": "6",
             "paddingTop": 2,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
             "parallax": false,
@@ -854,11 +952,213 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#eeeeee",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/keepingout-1-2000x1048.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "overlayColor": "#a47922",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keepingout-2-2000x1048.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keepingout-3-2000x1048.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.1",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider06.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BACKGROUND VIDEO",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider00.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-left.png\">",
+          "arrowright": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-right.png\">",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-18"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/keepingout-1-2000x1048.jpg",
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.1",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keepingout-2-2000x1048.jpg",
+                "contentAlign": "left",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keepingout-3-2000x1048.jpg",
+                "contentAlign": "right",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "VIDEO SLIDE",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
+                "contentAlign": "right",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
+                "contentAlign": "left",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-left.png\">",
+          "arrowright": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-right.png\">",
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-17"
+        },
+        {
           "_params": {
             "showTitle": false,
             "collapseAll": false,
             "tabs": "6",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
@@ -942,8 +1242,9 @@
     "page2.html": {
       "settings": {
         "title": "pickup",
-        "order": 1,
-        "meta_descr": "집책서비스를 안내합니다."
+        "order": 2,
+        "meta_descr": "국민도서관 책꽂이에 키핑하기 위해서는 책을 택배로 보내야 합니다. 경제적 부담을 덜어드리기 위해 국도가 다양한 물류방식으로 직접 책을 가지러 갑니다.",
+        "header_custom": "\t<meta property=\"og:title\" content=\"국민도서관 책꽂이: 집책서비스\"/>\n\t<meta property=\"og:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518051906/pickup_djit4f.jpg\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"집책서비스: 키핑하실 책, 국도가 가지러 갑니다.\"/>\n\t<meta property=\"og:url\" content=\"http://www.bookoob.co.kr/\"/>\n\n\t<meta name=\"twitter:description\" content=\"집책서비스: 키핑하실 책, 국도가 가지러 갑니다.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 집책서비스\"/>\n\n\t<meta name=\"twitter:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518051906/pickup_djit4f.jpg\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />"
       },
       "components": [
         {
@@ -1019,7 +1320,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1363,6 +1664,9 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#ffd785"
             }
           },
           "_params": {
@@ -1393,6 +1697,557 @@
           ],
           "_name": "content7",
           "_anchor": "content7-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/black-7-1200x800.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "공유하세요!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "share1",
+          "_anchor": "share1-14"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-12"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "credits",
+        "order": 1,
+        "header_custom": "\t<meta property=\"og:title\" content=\"국민도서관 책꽂이: 크레딧\"/>\n\t<meta property=\"og:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518050940/credit_xy3pq0.jpg\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"크레딧: 국도에 키핑한 책이 대여되면 수익이 발생합니다.\"/>\n\t<meta property=\"og:url\" content=\"http://www.bookoob.co.kr/\"/>\n\n\t<meta name=\"twitter:description\" content=\"크레딧: 국도에 키핑한 책이 대여되면 수익이 발생합니다.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 크레딧\"/>\n\n\t<meta name=\"twitter:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518050940/credit_xy3pq0.jpg\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />",
+        "meta_descr": "국민도서관 책꽂이에 키핑한 책을 다른 회원이 대여하면 책주인에게는 1만원 단위로 현금정산 할 수 있는 크레딧이 발생합니다. 그에 대한 설명."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fffcf6"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fffcf6"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fffcf6",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fffcf6"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fffcf6",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff6633!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.1",
+            "imageSize": "3.5",
+            "fontName": {
+              "name": "Noto Sans",
+              "css": "'Noto Sans', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            "fontColor": "#fffcf6",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logokor-168x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.bookoob.co.kr",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">국민도서관 책꽂이: 키핑</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "left",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1610x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#bdb39a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#264a54",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<b>크레딧</b> credit",
+          "text": "키핑한 내 책이 대여될 때, 현금으로 정산받을 수 있는 크레딧이 발생합니다!<br>내가 그동안 모아온 책들이 나를 위해 일합니다.<br>연말정산보다 더 짜릿한 13월의 월급을 노려보아요!!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-s",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
+        },
+        {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#ff6633",
+              "border-color": "#ff6633"
+            },
+            ".card-title": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "#ff6633",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.8"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "크레딧 비율",
+          "text": "크레딧은 대여된 도서정가의 일정비율로 책정됩니다. 이 비율은 회원등급과 출간년도에 따라 소정됩니다.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "linecons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#ff6633"
+            }
+          },
+          "title1": "5%",
+          "subtitle1": "Awesome",
+          "text1": "발행일 기준 1년 이내의 최신간일 경우, 책주인이 대지회원이면 정가의 5%.<br>하늘회원이면 정가의 <b>7%</b>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "banknote",
+              "family": "linecons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#ff6633"
+            }
+          },
+          "title2": "3%",
+          "subtitle2": "Awesome",
+          "text2": "발행일 기준 1년 초과~3년 이내의 도서인 경우, 대지회원이면 정가의 3%.<br>하늘회원이면 정가의 <b>4%</b>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "bubble",
+              "family": "linecons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#ff6633"
+            }
+          },
+          "title3": "1%",
+          "subtitle3": "Awesome",
+          "text3": "발행일 기준 3년 초과도서인 경우 대지회원/하늘회원 모두 정가의 1%.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_name": "features4",
+          "_anchor": "features4-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgicon": true,
+            "showHeading": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "iconsBgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#455c97",
+            "containerColor2": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "bgicon": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "color": "#fffffd"
+            }
+          },
+          "title": "크레딧 많이 버는 요령",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>1</p>",
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "하늘회원으로 가입해서 초기 다수의 책을 키핑합니다. (국도는 1 title 당 10 copy까지만 키핑가능하므로, 빨리 키핑하는 사람이 유리합니다.)",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>2</p>",
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "가능한 최신간들을 키핑합니다. 실제 국도의 크레딧 상위권자들은 2달에 한번 정도씩 꾸준히 새로 읽은 책들을 키핑하고 계십니다.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>3</p>",
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "주위 친구들에게 국도를 알리고 SNS를 통해서도 읽은 책들에 대해 소개합니다.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features18",
+          "_anchor": "features18-u",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/black-5-1200x800.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "공유해주세요.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "share1",
+          "_anchor": "share1-13"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "color": "#ff6633"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fffffd"
+          },
+          "title": "크레딧 적립순위",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-w"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "9",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ff9685",
+            "overlayOpacity": "0.8"
+          },
+          "title": "크레딧 순위",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>닉네임</th><th>키핑권수</th><th>크레딧</th></tr></thead><tbody><tr><td>☆길☆</td><td>1039</td><td>645,435</td></tr><tr><td>아☆</td><td>319</td><td>271,593</td></tr><tr><td>☆소현</td><td>2350</td><td>255,661</td></tr><tr><td>시☆빠이☆</td><td>1066</td><td>182,717</td></tr><tr><td>내☆이</td><td>1080</td><td>163,184</td></tr><tr><td>☆강</td><td>876</td><td>156,568</td></tr><tr><td>봉☆자</td><td>571</td><td>152,353</td></tr><tr><td>지☆족</td><td>606</td><td>133,278</td></tr><tr><td>아☆</td><td>197</td><td>125,310</td></tr></tbody>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "table1",
+          "_anchor": "table1-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "※ 2018년 2월 1일 현재.<br>※ 크레딧은 1만원 단위로 정산신청을 할 수 있으며, 제세공과금은 본인 부담입니다.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-12"
         }
       ]
     }
