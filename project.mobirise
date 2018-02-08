@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "국민도서관 책꽂이 : 키핑안내",
-    "currentPage": "faq.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -20,12 +20,14 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#ff6633"
+        "#ff6633",
+        "#f1f1f1",
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 45,
+    "uniqCompNum": 48,
     "versionPublish": "4.6.2",
     "favicon": "",
     "noImageResize": ""
@@ -36,7 +38,7 @@
         "main": true,
         "title": "키핑안내:국민도서관 책꽂이",
         "meta_descr": "공유경제 도서공유 플랫폼 국민도서관 책꽂이의 키핑과 집책서비스를 안내합니다. ",
-        "header_custom": "\t<meta property=\"og:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\t<meta property=\"og:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518049595/keeping_esdryw.jpg\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\t<meta property=\"og:url\" content=\"http://www.bookoob.co.kr/\"/>\n\n\t<meta name=\"twitter:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\n\t<meta name=\"twitter:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518049595/keeping_esdryw.jpg\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />\n",
+        "header_custom": "\t<meta property=\"og:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\t<meta property=\"og:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518049595/keeping_esdryw.jpg\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\t<meta property=\"og:url\" content=\"http://keeping.bookoob.co.kr/index.html/\"/>\n\n\t<meta name=\"twitter:description\" content=\"모두가 함께 만들어가는 국민도서관 책꽂이에 집에 있는 내 책을 안전하게 맡기는 키핑에 대한 정보.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\n\t<meta name=\"twitter:image\" content=\"http://res.cloudinary.com/bookoob/image/upload/v1518049595/keeping_esdryw.jpg\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -953,22 +955,45 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#f1f1f1"
+          },
+          "title": "부카우터로 키핑불가도서 확인하기",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1a"
+        },
+        {
+          "_styles": {
             ".mbr-section-title, .mbr-section-text": {
               "color": "#fff"
             }
           },
           "_params": {
-            "autoplay": false,
+            "autoplay": true,
             "fullScreen": false,
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#eeeeee",
-            "timeout": 5,
+            "bgColor": "#f1f1f1",
+            "timeout": "5",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/keepingout-1-2000x1048.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -998,7 +1023,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/keepingout-3-2000x1048.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1012,35 +1037,20 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slider06.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "BACKGROUND VIDEO",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/keepingout-4-2000x1048.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "BOOTSTRAP SLIDER",
+                "title": "<b>부카우터</b> 다운로드",
                 "overlay": true,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#2b4484",
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "overlayOpacity": "0.5",
+                "contentAlign": "left",
+                "text": "키핑할 때도 국도 안드로이드앱인 부카우터를 이용하시면 매우 편리합니다.<br>대여할 때는 말할 것도 없구요!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://play.google.com/store/apps/details?id=kr.co.bookoob.bookouter\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">다운로드하기</a> ",
+                "overlayColor": "#000000"
               }
             ]
           },
@@ -1052,106 +1062,6 @@
           ],
           "_name": "slider2",
           "_anchor": "slider2-18"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-text": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/keepingout-1-2000x1048.jpg",
-                "contentAlign": "center",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
-                "overlayOpacity": "0.1",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/keepingout-2-2000x1048.jpg",
-                "contentAlign": "left",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
-                "overlayOpacity": "0.2",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/keepingout-3-2000x1048.jpg",
-                "contentAlign": "right",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "VIDEO SLIDE",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
-                "contentAlign": "right",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
-                "contentAlign": "left",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "overlayOpacity": "0.5",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              }
-            ]
-          },
-          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-left.png\">",
-          "arrowright": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-right.png\">",
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-17"
         },
         {
           "_params": {
@@ -1198,6 +1108,36 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#dfd9ca",
+            "overlayOpacity": 0.9,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "공유해보세요.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "share1",
+          "_anchor": "share1-1b",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "margin-bottom": "1rem",
@@ -1236,6 +1176,34 @@
           ],
           "_name": "content7",
           "_anchor": "content7-k"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-12"
         }
       ]
     },

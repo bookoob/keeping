@@ -730,16 +730,22 @@ a:hover {
 #accordion1-i P {
   font-size: 14px;
 }
+#content3-1a .mbr-section-title,
+#content3-1a .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1a H1 {
+  font-size: 48px;
+}
 #slider2-18 .mbr-section-title,
 #slider2-18 .mbr-section-text {
   color: #fff;
 }
-#slider-17 .mbr-section-title,
-#slider-17 .mbr-section-text {
-  color: #fff;
-}
 #accordion1-j P {
   font-size: 14px;
+}
+#share1-1b .mbr-section-title {
+  font-size: 30px;
 }
 #content7-k .mbr-section-title,
 #content7-k .mbr-section-subtitle {
@@ -752,6 +758,12 @@ a:hover {
 }
 #content7-k .mbr-table-cell {
   vertical-align: middle;
+}
+#footer4-12 p {
+  color: #000;
+}
+#footer4-12 P {
+  color: #fffffd;
 }
 
 #menu1-h .hide-buttons .nav-btn {
