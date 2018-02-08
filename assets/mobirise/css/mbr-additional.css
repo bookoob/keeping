@@ -735,11 +735,17 @@ a:hover {
   text-align: center;
 }
 #content3-1a H1 {
-  font-size: 48px;
+  font-size: 30px;
 }
 #slider2-18 .mbr-section-title,
 #slider2-18 .mbr-section-text {
   color: #fff;
+}
+#slider2-18 .mbr-section-title B {
+  font-size: 30px;
+}
+#slider2-18 .mbr-section-title {
+  font-size: 30px;
 }
 #accordion1-j P {
   font-size: 14px;
