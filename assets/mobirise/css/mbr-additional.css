@@ -588,6 +588,9 @@ a:hover {
   color: #ff6633;
   border-color: #ff6633;
 }
+#features12-9 .card-text {
+  text-align: left;
+}
 #features22-3 .card .mbr-iconfont {
   background: #ff6633;
   border-color: #ff6633;
@@ -854,6 +857,9 @@ a:hover {
 #features12-o .mbr-iconfont {
   color: #ff6633;
   border-color: #ff6633;
+}
+#features12-o .card-text {
+  text-align: left;
 }
 #content7-p .mbr-section-title,
 #content7-p .mbr-section-subtitle {
