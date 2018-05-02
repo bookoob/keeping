@@ -761,10 +761,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #fff;
 }
-#content7-k .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content7-k .mbr-table-cell {
   vertical-align: middle;
 }
@@ -866,10 +862,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #fff;
 }
-#content7-p .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content7-p .mbr-table-cell {
   vertical-align: middle;
 }
@@ -955,6 +947,10 @@ a:hover {
 #header4-s .mbr-table-cell {
   vertical-align: middle;
 }
+#features10-1d .mbr-iconfont {
+  color: #ff6633;
+  border-color: #ff6633;
+}
 #features4-t .card {
   background-color: transparent;
   box-shadow: none;
@@ -977,6 +973,10 @@ a:hover {
 }
 #features18-u .mbr-table-cell {
   vertical-align: middle;
+}
+#features16-1e .mbr-iconfont {
+  background: #ff6633;
+  border-color: #ff6633;
 }
 #content3-w .mbr-section-title,
 #content3-w .mbr-section-subtitle {
