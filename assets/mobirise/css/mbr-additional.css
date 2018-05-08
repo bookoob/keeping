@@ -761,6 +761,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #fff;
 }
+#content7-k .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content7-k .mbr-table-cell {
   vertical-align: middle;
 }
@@ -861,6 +865,10 @@ a:hover {
 #content7-p .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #fff;
+}
+#content7-p .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #content7-p .mbr-table-cell {
   vertical-align: middle;
@@ -990,4 +998,91 @@ a:hover {
 }
 #footer4-12 P {
   color: #fffffd;
+}
+
+#menu1-1g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-1g .navbar-toggler {
+  color: #fffcf6;
+}
+#menu1-1g .close-icon::before,
+#menu1-1g .close-icon::after {
+  background-color: #fffcf6;
+}
+#menu1-1g .link,
+#menu1-1g .dropdown-item {
+  color: #fffcf6;
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu1-1g .link {
+  font-size: 1.1rem;
+}
+#menu1-1g .dropdown-item,
+#menu1-1g .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#menu1-1g .link:hover,
+#menu1-1g .link:focus {
+  color: #ff6633;
+}
+#menu1-1g .dropdown-item:hover::before,
+#menu1-1g .dropdown-item:focus::before {
+  background: #ff6633;
+}
+#menu1-1g .dropdown-item:hover,
+#menu1-1g .dropdown-item:focus {
+  color: #fffcf6;
+}
+#menu1-1g .link[aria-expanded="true"],
+#menu1-1g .dropdown-menu {
+  background: #616161;
+}
+#menu1-1g .nav-dropdown-sm .link:focus,
+#menu1-1g .nav-dropdown-sm .link:hover,
+#menu1-1g .nav-dropdown-sm .dropdown-item:focus,
+#menu1-1g .nav-dropdown-sm .dropdown-item:hover {
+  background: #595959!important;
+}
+#menu1-1g .navbar,
+#menu1-1g .nav-dropdown-sm,
+#menu1-1g .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-1g .nav-dropdown-sm .dropdown-menu {
+  background: #616161;
+}
+#menu1-1g .bg-color.transparent .link {
+  color: #fffcf6;
+  transition: none;
+}
+#menu1-1g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-1g .bg-color.transparent.opened .link:hover,
+#menu1-1g .bg-color.transparent.opened .link:focus {
+  color: #ff6633;
+}
+#menu1-1g .link[aria-expanded="true"],
+#menu1-1g .dropdown-item[aria-expanded="true"] {
+  color: #ff6633!important;
+}
+#footer4-1h p {
+  color: #000;
+}
+#footer4-1h P {
+  color: #fffffd;
+}
+#header1-1i .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+#header1-1i .mbr-table-cell {
+  vertical-align: bottom;
+}
+#content3-1m .mbr-section-title,
+#content3-1m .mbr-section-subtitle {
+  text-align: center;
+}
+#slider-1l .mbr-section-title,
+#slider-1l .mbr-section-text {
+  color: #fff;
 }
