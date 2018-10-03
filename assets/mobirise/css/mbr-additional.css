@@ -595,6 +595,18 @@ a:hover {
   background: #ff6633;
   border-color: #ff6633;
 }
+#features22-3 .heading-title {
+  color: #232323;
+}
+#features22-3 .card-title {
+  color: #232323;
+}
+#features22-3 .card-text {
+  color: #424242;
+}
+#header8-1n P {
+  color: #424242;
+}
 #pricing-table1-4 th.default {
   background: #bdb39a;
 }
@@ -760,10 +772,6 @@ a:hover {
 #content7-k .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #fff;
-}
-#content7-k .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #content7-k .mbr-table-cell {
   vertical-align: middle;
