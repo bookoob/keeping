@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "국민도서관 책꽂이 : 키핑안내",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -2322,7 +2322,7 @@
           },
           "title": "실전사례",
           "text": "크레딧으로 90만원 넘게 번 회원분의 허락을 받아<br>계정의 실제화면을 캡쳐받아 정리한 내용입니다.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 252, 246);\"></span>실제사례 blog post 보기</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://blog.naver.com/davinchi4/221341302484\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 252, 246);\"></span>실제사례 blog post 보기</a>",
           "_tags": [
             "Theme"
           ],
