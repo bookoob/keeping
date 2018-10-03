@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "국민도서관 책꽂이 : 키핑안내",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -454,7 +454,7 @@
           "_anchor": "header8-1n",
           "_styles": {
             "P": {
-              "color": "#424242"
+              "color": "#2d2d2d"
             }
           }
         },
