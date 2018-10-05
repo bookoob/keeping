@@ -874,10 +874,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #fff;
 }
-#content7-p .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content7-p .mbr-table-cell {
   vertical-align: middle;
 }
@@ -955,10 +951,6 @@ a:hover {
 #menu1-r .link[aria-expanded="true"],
 #menu1-r .dropdown-item[aria-expanded="true"] {
   color: #ff6633!important;
-}
-#header4-s .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #header4-s .mbr-table-cell {
   vertical-align: middle;

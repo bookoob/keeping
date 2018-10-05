@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "국민도서관 책꽂이 : 키핑안내",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -457,6 +457,150 @@
               "color": "#2d2d2d"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "autoplay": true,
+            "arrowColor": "#e3e3e3",
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.5",
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>“책을 좋아해서 계속 사게되는데 보관할 데가 없고 처리하긴 애매할 때 좋고 또 내가 모르는 사람들에게도 국도가 관리해주니 안심하고 빌려줄 수 있어서 더 좋습니다”</p>",
+                "authorName": "꼬무이",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/ahbvmqccqaeieb7-160x123.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“생각보다 가지고만 있는 책들이 많다는 것에 놀라웠고 없으면 큰일 날 줄 알았는데 없어도 사는데 지장은 없더군여 ㅋ 큰집이면 모를까 대부분 집안이 협소해지거나 협소할수 밖에 없는 생활이 대부분이기에 공간활용과 도서의 쉐어링이라는 두가지 모두 만족하고 있습니다.”</p>",
+                "authorName": "kchhwan",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/dbire-1w4aabuoe-160x124.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“집의 공간이 다시 살아나고 안읽던 책이 다른 분께 소중한 지적 재산이 되는것이 무엇인가 사회적 기여를 하고 있다. 라는 생각을 하게 해줍니다.”</p>",
+                "authorName": "따통",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/e1aa8332a88875bb2afefe4cb52d3352-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“좁은 집에 책이 쌓여 묵히는 대신 다른 이에게 읽히는 책이 될 수 있어서 좋고, 공간활용은 덤입니다.”</p>",
+                "authorName": "Kellypark",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1049-137x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": true,
+                "text": "<p>“저는 책욕심이 많아서 읽은 책도, 읽을 책도 모아두고, 주변사람에게도 이책저책 권해주는 편입니다. 그러다보니 결국 집안 책꽂이가 포화상태... 누군가에게 주기는 아깝고, 버리기는 더더 아까운 제 소중한 책들을 보관하고 돌려볼수 있어서 너무 좋아요 ^^”</p>",
+                "authorName": "귀신",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1262248604-newyear004-160x107.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“책이 많아지면 쌓아놓는 것도 부담스러워지는데 책 보관공간에 자유로와졌습니다. 좋은 책을 다른 사람이 빌려서 보게 되는 것도 눈에 안 보이는 즐거움입니다.”</p>",
+                "authorName": "햇살처럼",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/unnamed-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
+          },
+          "title": "키핑을 했더니",
+          "subtitle": "자기책을 국도에 맡긴 분들, 어떤 기분이실까요?",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1r"
         },
         {
           "_styles": {
