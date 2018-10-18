@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
@@ -283,6 +283,38 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_style": {
+            ".mbr-figure-caption": {
+              "background-color": "#616161"
+            }
+          },
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#ecf0f1"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://youtu.be/kbaK-rQQUAQ",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "키핑이 진행되는 전 과정을 생생하게 동영상으로!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1t"
         },
         {
           "_params": {
