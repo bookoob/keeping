@@ -646,18 +646,6 @@ a:hover {
 #content5-5 .heading-title {
   font-size: 48px;
 }
-#content7-6 .mbr-section-title,
-#content7-6 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #fff;
-}
-#content7-6 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content7-6 .mbr-table-cell {
-  vertical-align: middle;
-}
 #msg-box1-g H1 {
   color: #333333;
 }
@@ -767,14 +755,6 @@ a:hover {
 }
 #share1-1b .mbr-section-title {
   font-size: 30px;
-}
-#content7-k .mbr-section-title,
-#content7-k .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #fff;
-}
-#content7-k .mbr-table-cell {
-  vertical-align: middle;
 }
 #footer4-12 p {
   color: #000;
@@ -951,6 +931,10 @@ a:hover {
 #menu1-r .link[aria-expanded="true"],
 #menu1-r .dropdown-item[aria-expanded="true"] {
   color: #ff6633!important;
+}
+#header4-s .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #header4-s .mbr-table-cell {
   vertical-align: middle;

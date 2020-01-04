@@ -29,10 +29,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
     "uniqCompNum": 66,
-    "versionPublish": "4.7.1",
+    "versionPublish": "4.8.10",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -118,7 +119,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -222,7 +223,7 @@
           "number1": "<p>1</p>",
           "title1": "책을 보냅니다.",
           "subtitle1": "Awesome",
-          "text1": "● 택배나 용달, 또는 국도의 집책서비스를 이용하여 키핑하고 싶은 책을 보냅니다. <br>● 도서관에서 다른 키핑 상자와 섞이지 않도록 상자 겉면에 자신의 닉네임을 매직으로 크게 써놓아 주세요. <br>● 키핑할 수 없는 도서종류가 있으니 미리 확인하시면 돌려받을 번거로움이 줄어 좋습니다.",
+          "text1": "● 택배나 용달을 이용하여 키핑하고 싶은 책을 보냅니다. <br>● 도서관에서 다른 키핑 상자와 섞이지 않도록 상자 겉면에 자신의 닉네임을 매직으로 크게 써놓아 주세요. <br>● 키핑할 수 없는 도서종류가 있으니 미리 확인하시면 돌려받을 번거로움이 줄어 좋습니다.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -685,7 +686,7 @@
           "currency": "",
           "text11": "연회비",
           "text12": "Storage",
-          "text13": "집책서비스",
+          "text13": "혜택",
           "text14": "Connection",
           "text15": "Description",
           "text16": "Nesciunt! ipsum dolor.",
@@ -695,7 +696,7 @@
           "text211": "<span class=\"price\">9만원</span>",
           "text212": "<br>(부가세 별도)<br>",
           "text22": "1,000권까지<br>(권당 연 99원꼴)<br>",
-          "text23": "최초 가입 시 1회 무료<br>(서울 및 경기 일부 지역)<br>",
+          "text23": "동일계정 1회 한정으로<br>최대 3만원까지 택배비 지원<br>(3만원 이하일 경우 실사용금액만)<br>",
           "text24": "15 GB bandwidth",
           "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "text26": "Nesciunt! ipsum dolor.",
@@ -705,7 +706,7 @@
           "text311": "<span class=\"price\">3만원</span>",
           "text312": "<br>(부가세 별도)<br>",
           "text32": "200권까지<br>(권당 연 165원꼴)<br>",
-          "text33": "가장 적절한 실비<br>(서울 및 경기 일부 지역)<br>",
+          "text33": "해당사항 없음<br>",
           "text34": "15 GB bandwidth",
           "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "text36": "Nesciunt! ipsum dolor.",
@@ -818,46 +819,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#fff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "contentAlign": "left",
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2d2d2d",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": "0.7"
-          },
-          "title": "집책서비스는 뭔가요?",
-          "text": "키핑하시려면 책을 직접 보내주셔야 합니다. 키핑하고 싶은 책이 많을 경우, 택배비도 부담이 되지요. 이 부담을 덜어드리고자 저희가 직접 방문하여 택배비보다 저렴한 비용으로 책을 가져오는 서비스를 말합니다.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html#header1-m\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 253);\"></span>자세히 알아보기</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-6"
-        },
-        {
-          "_styles": {
             "H1": {
               "color": "#333333"
             }
@@ -885,8 +846,8 @@
           },
           "title": "더 자세히 알고싶으세요?",
           "title2": "FAQ를 살펴보세요",
-          "text": "<li>내 책을 집밖에 맡긴다는 건 매우 중요한 의사결정입니다. 궁금한 점이 많은 것은 당연합니다.</li><br><li>국민도서관 책꽂이는 7년 남짓한 동안 11만3천여 권의 키핑을 받아오면서 여러 질문을 받아왔습니다.</li><br><li>찬찬히 둘러보시면 더 키핑을 해야겠다는 생각이 드실거에요!</li>",
-          "roundBlockText": "와!<br> <b>11만3천권</b><br>키핑",
+          "text": "<li>내 책을 집밖에 맡긴다는 건 매우 중요한 의사결정입니다. 궁금한 점이 많은 것은 당연합니다.</li><br><li>국민도서관 책꽂이는 7년 남짓한 동안 14만5천여 권의 키핑을 받아오면서 여러 질문을 받아왔습니다.</li><br><li>찬찬히 둘러보시면 더 키핑을 해야겠다는 생각이 드실거에요!</li>",
+          "roundBlockText": "와!<br> <b>14만5천권</b><br>키핑",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"faq.html#accordion1-i\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 253);\"></span>FAQ 보러가기</a>",
           "media": {
             "image": {
@@ -1051,7 +1012,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "text": "Copyright (c) 2020 (주)보리떡광주리",
           "_tags": [
             "Theme"
           ],
@@ -1141,7 +1102,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1401,46 +1362,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#fff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "contentAlign": "left",
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2d2d2d",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": 0.5
-          },
-          "title": "집책서비스",
-          "text": "키핑할 책이 많아서 택배비가 부담될 경우, 택배사보다 저렴하게 이용할 수 있는 국민도서관 책꽂이 물류가 있습니다.\n<br>서울 및 경기도 일부에 대해 서비스를 제공하고 있습니다.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html#header1-m\" data-toolbar=\"-mbrBtnMove\">자세히 알아보기</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-k"
-        },
-        {
-          "_styles": {
             "p": {
               "color": "#000"
             },
@@ -1460,7 +1381,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "text": "Copyright (c) 2020 (주)보리떡광주리",
           "_tags": [
             "Theme"
           ],
@@ -1551,7 +1472,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1978,7 +1899,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "text": "Copyright (c) 2020 (주)보리떡광주리",
           "_tags": [
             "Theme"
           ],
@@ -2069,7 +1990,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2824,7 +2745,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "text": "Copyright (c) 2020 (주)보리떡광주리",
           "_tags": [
             "Theme"
           ],
@@ -2913,7 +2834,7 @@
             "fontColor": "#fffcf6",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">집책서비스</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-m\">개요</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features12-o\">절차</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#content7-p\">주의사항</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header4-s\">크레딧</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#header1-1i\">스프레드</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html#accordion1-i\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2958,7 +2879,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 (주)보리떡광주리",
+          "text": "Copyright (c) 2020 (주)보리떡광주리",
           "_tags": [
             "Theme"
           ],
