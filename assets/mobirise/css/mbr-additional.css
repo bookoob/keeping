@@ -932,10 +932,6 @@ a:hover {
 #menu1-r .dropdown-item[aria-expanded="true"] {
   color: #ff6633!important;
 }
-#header4-s .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header4-s .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1069,4 +1065,88 @@ a:hover {
 #slider-1l .mbr-section-title,
 #slider-1l .mbr-section-text {
   color: #fff;
+}
+
+#header5-1y .mbr-section-title,
+#header5-1y .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#header5-1y .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header5-1y .mbr-table-cell {
+  vertical-align: middle;
+}
+#menu1-1w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-1w .navbar-toggler {
+  color: #fffcf6;
+}
+#menu1-1w .close-icon::before,
+#menu1-1w .close-icon::after {
+  background-color: #fffcf6;
+}
+#menu1-1w .link,
+#menu1-1w .dropdown-item {
+  color: #fffcf6;
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu1-1w .link {
+  font-size: 1.1rem;
+}
+#menu1-1w .dropdown-item,
+#menu1-1w .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#menu1-1w .link:hover,
+#menu1-1w .link:focus {
+  color: #ff6633;
+}
+#menu1-1w .dropdown-item:hover::before,
+#menu1-1w .dropdown-item:focus::before {
+  background: #ff6633;
+}
+#menu1-1w .dropdown-item:hover,
+#menu1-1w .dropdown-item:focus {
+  color: #fffcf6;
+}
+#menu1-1w .link[aria-expanded="true"],
+#menu1-1w .dropdown-menu {
+  background: #616161;
+}
+#menu1-1w .nav-dropdown-sm .link:focus,
+#menu1-1w .nav-dropdown-sm .link:hover,
+#menu1-1w .nav-dropdown-sm .dropdown-item:focus,
+#menu1-1w .nav-dropdown-sm .dropdown-item:hover {
+  background: #595959!important;
+}
+#menu1-1w .navbar,
+#menu1-1w .nav-dropdown-sm,
+#menu1-1w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-1w .nav-dropdown-sm .dropdown-menu {
+  background: #616161;
+}
+#menu1-1w .bg-color.transparent .link {
+  color: #fffcf6;
+  transition: none;
+}
+#menu1-1w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-1w .bg-color.transparent.opened .link:hover,
+#menu1-1w .bg-color.transparent.opened .link:focus {
+  color: #ff6633;
+}
+#menu1-1w .link[aria-expanded="true"],
+#menu1-1w .dropdown-item[aria-expanded="true"] {
+  color: #ff6633!important;
+}
+#footer4-1x p {
+  color: #000;
+}
+#footer4-1x P {
+  color: #fffffd;
 }
